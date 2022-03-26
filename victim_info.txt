@@ -1,0 +1,1 @@
+t e r m i n a l Key.enter Key.delete Key.backspace Key.right Key.right Key.right Key.right Key.right Key.right Key.right Key.right i s Key.space Key.ctrl s Key.enter Key.enter Key.enter Key.enter Key.enter Key.enter Key.enter n b b Key.cmd Key.cmd h e l l o Key.space t h i s Key.space i s Key.space k e y l o g g e r 
